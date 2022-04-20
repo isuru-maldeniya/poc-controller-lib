@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration = com.xventure.xapi.libs.notification.service.Config
+

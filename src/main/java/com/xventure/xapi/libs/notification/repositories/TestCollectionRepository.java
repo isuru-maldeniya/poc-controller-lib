@@ -6,8 +6,6 @@ import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Repository;
 
 import java.lang.annotation.Documented;
-
 @Repository
-@Component
 public interface TestCollectionRepository extends XAPIMongoDBRepository<TestCollection, String>{
 }
